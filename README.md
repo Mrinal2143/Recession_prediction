@@ -10,7 +10,6 @@ Sentiment Index :
 ![image](https://github.com/Mrinal2143/Recession_prediction/assets/102757940/df89caed-0318-406e-8fb3-bb23032ff35f)
 
 FOMC : 
-![image](https://github.com/Mrinal2143/Recession_prediction/assets/102757940/1784347a-d8f9-4a01-861b-97e0c4a5ac52)
 ![WhatsApp Image 2024-04-19 at 17 15 17_3f5b9d11](https://github.com/Mrinal2143/Recession_prediction/assets/102757940/5e4ec6c9-ecc4-4295-a10b-54e14aa35b93)
 
 Recession Probabilities : 
